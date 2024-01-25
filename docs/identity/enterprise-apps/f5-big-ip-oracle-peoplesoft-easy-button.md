@@ -1,19 +1,17 @@
 ---
 title: Tutorial to configure F5 BIG-IP Easy Button for SSO to Oracle PeopleSoft
 description: Implement secure hybrid access with header-based SSO to PeopleSoft using F5 BIG-IP Easy Button Guided Configuration 16.1.
-
 author: gargi-sinha
 manager: martinco
 ms.service: active-directory
 ms.subservice: app-mgmt
 ms.topic: how-to
-
-ms.date: 05/03/2023
+ms.date: 01/25/2024
 ms.author: gasinh
 ms.collection: M365-identity-device-management
 ms.custom: not-enterprise-apps
 
-#customer intent: As an IT admin responsible for securing Oracle PeopleSoft using Microsoft Entra ID, I want to configure F5 BIG-IP Easy Button for SSO to Oracle PeopleSoft, so that I can integrate BIG-IP with Microsoft Entra ID and improve the application's security posture.
+#customer intent: As an IT admin responsible for securing Oracle PeopleSoft using Microsoft Entra ID, I need to configure F5 BIG-IP Easy Button for SSO to Oracle PeopleSoft, and integrate BIG-IP with Microsoft Entra ID and improve application security posture.
 ---
 
 # Tutorial: Configure F5 BIG-IP Easy Button for SSO to Oracle PeopleSoft
