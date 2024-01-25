@@ -1,19 +1,17 @@
 ---
 title: Configure F5 BIG-IP Access Policy Manager for header-based single sign-on
 description: Learn to configure F5 BIG-IP Access Policy Manager (APM) and Microsoft Entra SSO for header-based authentication
-
 author: gargi-sinha
 manager: martinco
 ms.service: active-directory
 ms.subservice: app-mgmt
 ms.topic: how-to
-
-ms.date: 03/22/2023
+ms.date: 01/25/2024
 ms.author: gasinh
 ms.collection: M365-identity-device-management
 ms.custom: not-enterprise-apps
 
-#customer intent: As an IT administrator, I want to configure F5 BIG-IP Access Policy Manager for header-based single sign-on, so that I can implement secure hybrid access with single sign-on to header-based applications using F5 BIG-IP advanced configuration.
+#customer intent: I'm an IT administrator, and I want to configure F5 BIG-IP Access Policy Manager for header-based single sign-on. I can then implement secure hybrid access with single sign-on (SSO) to header-based applications using F5 BIG-IP advanced configuration.
 ---
 
 # Tutorial: Configure F5 BIG-IP Access Policy Manager for header-based single sign-on
