@@ -11,7 +11,7 @@ ms.author: gasinh
 ms.collection: M365-identity-device-management
 ms.custom: not-enterprise-apps
 
-#customer intent: As an IT admin, I want to configure Datawiza to enable Microsoft Entra multifactor authentication (MFA) and single sign-on (SSO) to Oracle PeopleSoft. Then I can enhance the security of user sign-ins and provide seamless access to applications.
+#customer intent: As an IT admin, I want to configure Datawiza to enable Microsoft Entra multifactor authentication (MFA) and single sign-on (SSO) for Oracle PeopleSoft. Then I can enhance the security of user sign-ins and provide seamless access to applications.
 ---
 
 # Tutorial: Configure Datawiza to enable Microsoft Entra multifactor authentication and single sign-on to Oracle PeopleSoft
