@@ -5,13 +5,12 @@ author: gargi-sinha
 ms.service: active-directory
 ms.subservice: app-mgmt
 ms.topic: how-to
-
-ms.date: 03/27/2023
+ms.date: 01/25/2024
 ms.author: gasinh
 ms.collection: M365-identity-device-management
 ms.custom: not-enterprise-apps
 
-#customer intent: As an IT admin responsible for securing hybrid access to form-based applications, I want to learn how to configure F5 BIG-IP Access Policy Manager (APM) and Microsoft Entra ID for secure access, so that I can improve Zero Trust governance and implement SSO between Microsoft Entra ID and BIG-IP published services.
+#customer intent: I'm an IT admin responsible for securing hybrid access to form-based applications. I want to learn how to configure F5 BIG-IP Access Policy Manager (APM) and Microsoft Entra ID for secure access, so I can improve Zero Trust governance and implement SSO between Microsoft Entra ID and BIG-IP published services.
 ---
 
 # Configure F5 BIG-IP Access Policy Manager for form-based SSO
