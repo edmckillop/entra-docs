@@ -1,19 +1,17 @@
 ---
 title: Configure F5 BIG-IP Easy Button for SSO to SAP ERP
 description: Learn to secure SAP ERP using Microsoft Entra ID with F5 BIG-IP Easy Button Guided Configuration.
-
 author: gargi-sinha
 manager: martinco
 ms.service: active-directory
 ms.subservice: app-mgmt
 ms.topic: how-to
-
-ms.date: 05/02/2023
+ms.date: 01/25/2024
 ms.author: gasinh
 ms.collection: M365-identity-device-management
 ms.custom: not-enterprise-apps
 
-#customer intent: As an IT admin, I want to configure F5 BIG-IP Easy Button for SSO to SAP ERP using Microsoft Entra ID, so that I can secure the application and enable single sign-on for users, improving overall application security posture.
+#customer intent: I'm an IT admin, and I want to configure F5 BIG-IP Easy Button for SSO to SAP ERP using Microsoft Entra ID. I need to secure applications and enable single sign-on (SSO) for users, thus improving overall application security posture.
 ---
 
 # Tutorial: Configure F5 BIG-IP Easy Button for SSO to SAP ERP
