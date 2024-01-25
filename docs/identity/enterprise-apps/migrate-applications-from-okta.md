@@ -2,18 +2,16 @@
 
 title: Tutorial to migrate your applications from Okta to Microsoft Entra ID
 description: Learn how to migrate your applications from Okta to Microsoft Entra ID.
-
 author: gargi-sinha
 manager: martinco
 ms.service: active-directory
-
 ms.topic: how-to
-ms.date: 12/14/2022
+ms.date: 01/25/2024
 ms.author: gasinh
 ms.subservice: app-mgmt
 ms.custom: not-enterprise-apps
 
-#customer intent: As an IT admin currently using Okta for application management, I want to migrate my applications to Microsoft Entra ID, so that I can centralize application access and management in one platform.
+#customer intent: I'm an IT admin using Okta for application management. I need to migrate my applications to Microsoft Entra ID, so I can centralize application access and management.
 ---
 
 # Tutorial: Migrate your applications from Okta to Microsoft Entra ID
