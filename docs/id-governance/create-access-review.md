@@ -1,5 +1,5 @@
 ---
-title: Create an access review of groups and applications
+title: Create an access review of groups and applications in Microsoft Entra ID
 description: Learn how to create an access review of group members or application access in Microsoft Entra ID. 
 services: active-directory
 author: owinfreyATL
@@ -10,7 +10,7 @@ ms.workload: identity
 ms.tgt_pltfrm: na
 ms.topic: how-to
 ms.subservice: compliance
-ms.date: 06/30/2023
+ms.date: 07/23/2023
 ms.author: owinfrey
 ms.reviewer: mwahl
 ms.collection: M365-identity-device-management
@@ -22,9 +22,9 @@ Access to groups and applications for employees and guests changes over time. To
 
 Microsoft 365 and Security group owners can also use Microsoft Entra ID to create access reviews for group members as long as a user in the Global Administrator or Identity Governance Administrator role enables the setting via the **Access Reviews Settings** pane. For more information about these scenarios, see [Manage access reviews](manage-access-review.md).
 
-Watch a short video that talks about enabling access reviews.
+Watch a short video about enabling access reviews.
 
->[!VIDEO https://www.youtube.com/embed/X1SL2uubx9M]
+   >[!VIDEO https://youtu.be/VSl1TVITcQ8]
 
 This article describes how to create one or more access reviews for group members or application access.
 
