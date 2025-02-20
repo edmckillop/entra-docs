@@ -226,7 +226,7 @@ Use custom extensions to create workflows using tools like Azure Logic Apps. For
    > [!NOTE]
    > To create a logic app resource for hosting, select **Consumption** or **Standard**. A consumption logic app has one workflow that runs in multitenant Azure Logic Apps. A standard logic app has one or multiple workflows that run in single-tenant Azure Logic Apps, or an App Service Environment v3 (ASE v3). 
 
-To learn more, see the [App Service Environment overview](/azure/app-service/environment/overview) and [Azure Logic Apps documentation](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-overview).  
+To learn more, see the [App Service Environment overview](/azure/app-service/environment/overview) and [Azure Logic Apps documentation](/azure/logic-apps/logic-apps-overview).  
 
 ## Deploy PoC: Lifecycle workflows
 
